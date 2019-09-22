@@ -1,0 +1,19 @@
+#map {
+  width: 500px;
+  height: 100%;
+}
+
+#restlist {
+  height: 100%;
+  overflow: scroll;
+}
+
+@media screen and (max-width: 960px) {
+  #restlist {
+    height: 200px;
+  }
+}
+
+.logo {
+  max-height: 150px;
+}

@@ -1,0 +1,52 @@
+.top {
+  background-image: url('../../images/oysters.jpg');
+  background-size: cover;
+  /* background-position: -100px 0; */
+  height: 500px;
+  margin-top: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  color: white;
+  padding-top: 150px;
+  margin-top: 0px;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 7em;
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+}
+
+.passage {
+  background: url('../../images/ecailles.png');
+  padding: 100px 100px;
+  color: #3d405b;
+  /* font-size: 2.5em; */
+}
+
+.divider-pic {
+  background: url('../../images/divider-2.jpg');
+  background-size: cover;
+  height: 200px;
+}
+
+.cardButton {
+  background-color: #3d405b;
+  border-radius: 3;
+  border: 0;
+  color: white;
+  height: 48;
+  margin-top: 5px;
+  padding: 0 30px;
+}
+
+a {
+  text-decoration: none;
+  color: #3d405b;
+}
